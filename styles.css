@@ -87,8 +87,66 @@
     top: 42px;
 }
 
+h1 {
+   color: black;
+}
 
+.Originals {
+    color: violet;
+}
 
+.New-Gen {
+    color: steelblue;
+}
 
+#First {
+    color: snow;
+}
 
+#Second {
+    color: sienna;
+}
+
+#Third {
+    color: red;
+}
+
+#Fourth {
+    color: palegreen;
+}
+
+#Fifth {
+    color: purple;
+}
+
+.Friends {
+    color: sandybrown;
+}
+
+.Places-to-Visit {
+    color: plum;
+}
+
+.Favorite-Resturants {
+    color: pink;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.Friends-Border {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.Places-Border {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.Resturants-Border {
+    border: 2px solid black;
+    border-radius: 10px;
+}
 
